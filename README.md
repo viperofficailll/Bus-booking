@@ -16,7 +16,7 @@
 ## 📸 Screenshots
 
 ### 1. First Page
-![First Page](screenshots/landing.png)
+![First Page](screenshots/aalanding.png)
 
 ### 2. Login Page
 ![Login Page](screenshots/login.png)
@@ -25,7 +25,7 @@
 ![Signup Page](screenshots/signup.png)
 
 ### 4. Home Page
-![Home Page](screenshots/home.png)
+![Home Page](screenshots/aaHome.png)
 ### 5. SeatBook page
 ![SeatBook Page](screenshots/seatbook.png)
 ### 6 . Confirm page
